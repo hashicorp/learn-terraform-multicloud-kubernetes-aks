@@ -1,1 +1,1 @@
-# -learn-terraform-multicloud-kubernetes-aks
+# learn-terraform-multicloud-kubernetes-aks
